@@ -1,4 +1,4 @@
-# Hand Gesture based Robotic Manipulator
+# Description
 * My undergraduate project, main objective was to design a low cost robotic maniputalor having 2 Degrees of Freedom and a gripping mechanism
 * ADXL335 accelerometer was used for moving forward, backward, right and left and for gripper was controlled by a flex sensor.
 * All the communication was done wirelessly using RF.
